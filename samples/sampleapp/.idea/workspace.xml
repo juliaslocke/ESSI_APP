@@ -37,8 +37,8 @@
       <file leaf-file-name="julia_3_connectsensors.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_3_connectsensors.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="78" column="34" lean-forward="false" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+            <state relative-caret-position="1095">
+              <caret line="81" column="34" lean-forward="false" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -50,8 +50,8 @@
       <file leaf-file-name="julia_5_complete5.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_5_complete5.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="2100">
-              <caret line="146" column="46" lean-forward="false" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
+            <state relative-caret-position="2145">
+              <caret line="143" column="46" lean-forward="false" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="julia_4_trainsensors.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_4_trainsensors.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="630">
               <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
               <folding />
             </state>
@@ -90,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_5_1_bhtrain.xml">
           <provider editor-type-id="text-editor">
             <state relative-caret-position="1125">
-              <caret line="79" column="64" lean-forward="false" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
+              <caret line="75" column="64" lean-forward="false" selection-start-line="75" selection-start-column="64" selection-end-line="75" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -99,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="julia_7_playscreen.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="julia_7_playscreen.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_7_playscreen.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="2340">
+            <state relative-caret-position="2370">
               <caret line="158" column="46" lean-forward="false" selection-start-line="158" selection-start-column="46" selection-end-line="158" selection-end-column="46" />
               <folding />
             </state>
@@ -115,7 +115,7 @@
       <file leaf-file-name="julia_6_homeplay.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_6_homeplay.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="825">
+            <state relative-caret-position="885">
               <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
@@ -125,12 +125,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="julia_8_stopplayscreen.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="julia_8_stopplayscreen.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_8_stopplayscreen.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="2055">
-              <caret line="139" column="31" lean-forward="false" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="461">
+              <caret line="149" column="35" lean-forward="false" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
+              <folding>
+                <element signature="e#5342#5364#0" expanded="false" />
+              </folding>
             </state>
           </provider>
           <provider selected="true" editor-type-id="android-designer2">
@@ -138,24 +140,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="julia_2_choosetechnique.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_2_choosetechnique.xml">
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="49" lean-forward="false" selection-start-line="62" selection-start-column="49" selection-end-line="62" selection-end-column="49" />
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="154" column="45" lean-forward="true" selection-start-line="154" selection-start-column="45" selection-end-line="154" selection-end-column="45" />
               <folding />
             </state>
-          </provider>
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="julia_3_1_troubleshooting.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_3_1_troubleshooting.xml">
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="88" column="41" lean-forward="false" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+            <state relative-caret-position="1320">
+              <caret line="89" column="41" lean-forward="false" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -1272,18 +1271,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_practice_file.xml" />
-        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/julia_4_trainsensors.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/julia_6_homeplay.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/julia_7_playscreen.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_1_choosesport.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_2_choosetechnique.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_3_1_troubleshooting.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_3_connectsensors.xml" />
-        <option value="$PROJECT_DIR$/src/main/res/layout/julia_4_trainsensors.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_5_1_bhtrain.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_5_1_fhtrain.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_5_complete5.xml" />
-        <option value="$PROJECT_DIR$/src/main/res/layout/julia_6_homeplay.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/main/res/layout/julia_8_stopplayscreen.xml" />
-        <option value="$PROJECT_DIR$/src/main/res/layout/julia_7_playscreen.xml" />
       </list>
     </option>
   </component>
@@ -1308,7 +1307,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1323,6 +1323,24 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleapp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleapp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1355,13 +1373,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="sync.plugin.last.upgrade.timestamp" value="1522487054447" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1522693565533" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="Nexus_5X_API_27" />
   </component>
@@ -1447,8 +1464,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522488511199" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522697649481" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -1495,8 +1511,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522488511200" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522697649481" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1657,8 +1672,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522488511209" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522697649483" />
       </method>
     </configuration>
     <list size="1">
@@ -1697,7 +1711,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="23" width="1260" height="728" extended-state="0" />
+    <frame x="17" y="23" width="1260" height="728" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1706,6 +1721,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.51970446" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1714,7 +1730,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26518884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26518884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1728,7 +1744,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3275862" sideWeight="0.48357964" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2108,18 +2123,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="148" column="28" lean-forward="false" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_practice_file.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -2130,7 +2137,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
@@ -2139,8 +2145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_1_choosesport.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="84" column="53" lean-forward="false" selection-start-line="84" selection-start-column="53" selection-end-line="84" selection-end-column="53" />
+        <state relative-caret-position="1260">
+          <caret line="88" column="53" lean-forward="false" selection-start-line="88" selection-start-column="53" selection-end-line="88" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -2161,8 +2167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_3_1_troubleshooting.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="88" column="41" lean-forward="false" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+        <state relative-caret-position="1320">
+          <caret line="89" column="41" lean-forward="false" selection-start-line="89" selection-start-column="41" selection-end-line="89" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -2172,8 +2178,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_3_connectsensors.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="34" lean-forward="false" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+        <state relative-caret-position="1095">
+          <caret line="81" column="34" lean-forward="false" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -2183,7 +2189,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_4_trainsensors.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="630">
           <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
           <folding />
         </state>
@@ -2195,7 +2201,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_5_1_bhtrain.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1125">
-          <caret line="79" column="64" lean-forward="false" selection-start-line="79" selection-start-column="64" selection-end-line="79" selection-end-column="64" />
+          <caret line="75" column="64" lean-forward="false" selection-start-line="75" selection-start-column="64" selection-end-line="75" selection-end-column="64" />
           <folding />
         </state>
       </provider>
@@ -2216,19 +2222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_5_complete5.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="146" column="46" lean-forward="false" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_8_stopplayscreen.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="2055">
-          <caret line="139" column="31" lean-forward="false" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
+        <state relative-caret-position="2145">
+          <caret line="143" column="46" lean-forward="false" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -2238,7 +2233,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_6_homeplay.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="825">
+        <state relative-caret-position="885">
           <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
@@ -2247,11 +2242,32 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="154" column="45" lean-forward="true" selection-start-line="154" selection-start-column="45" selection-end-line="154" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_7_playscreen.xml">
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="2340">
+        <state relative-caret-position="2370">
           <caret line="158" column="46" lean-forward="false" selection-start-line="158" selection-start-column="46" selection-end-line="158" selection-end-column="46" />
           <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/julia_8_stopplayscreen.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="149" column="35" lean-forward="false" selection-start-line="149" selection-start-column="35" selection-end-line="149" selection-end-column="35" />
+          <folding>
+            <element signature="e#5342#5364#0" expanded="false" />
+          </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer2">
