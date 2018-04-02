@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="no.nordicsemi.android:dfu-1.6.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/74c8270d1b04ce74ebab1655ff8ff534ddb32988/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/74c8270d1b04ce74ebab1655ff8ff534ddb32988/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

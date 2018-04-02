@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/menu/send_logs_menu.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/menu/send_logs_menu.xml"
+    }
+]

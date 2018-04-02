@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/julialocke/.android/build-cache/eb2c9cf439960a578c90d32c1c470860daec7c08/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/julialocke/.android/build-cache/eb2c9cf439960a578c90d32c1c470860daec7c08/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/julialocke/.android/build-cache/eb2c9cf439960a578c90d32c1c470860daec7c08/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

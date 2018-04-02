@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_5_1_fhtrain.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_5_1_fhtrain.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/julialocke/.android/build-cache/c12a3a4aa8bd86a4723009ed5945069e1d53bca5/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/item_main_view.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/item_main_view.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/item_movesense.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/item_movesense.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_2_choosetechnique.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_2_choosetechnique.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_saved_data.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_saved_data.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_led_test.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_led_test.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_app_info.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_app_info.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_angular_velocity.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_angular_velocity.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_sensor_list.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_sensor_list.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/item_sensor_list.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/item_sensor_list.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_send_logs_to_google_drive.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_send_logs_to_google_drive.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_4_trainsensors.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_4_trainsensors.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_7_playscreen.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_7_playscreen.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/fragment_scan.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_practice_file.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_practice_file.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/scanned_device_item.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/scanned_device_item.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_dfu.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_dfu.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/julialocke/.android/build-cache/c12a3a4aa8bd86a4723009ed5945069e1d53bca5/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_magnetic_field_test.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_magnetic_field_test.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/julialocke/.android/build-cache/c12a3a4aa8bd86a4723009ed5945069e1d53bca5/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_8_stopplayscreen.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_8_stopplayscreen.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/julialocke/.android/build-cache/c12a3a4aa8bd86a4723009ed5945069e1d53bca5/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_3_1_troubleshooting.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_3_1_troubleshooting.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_movesense.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_movesense.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_5_1_bhtrain.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_5_1_bhtrain.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_3_connectsensors.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_3_connectsensors.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_6_homeplay.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_6_homeplay.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_1_choosesport.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_1_choosesport.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_temperature_test.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_temperature_test.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_battery.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_battery.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/julia_5_complete5.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/julia_5_complete5.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_dfu2.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_dfu2.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_heart_rate_test.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_heart_rate_test.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/julialocke/.android/build-cache/c12a3a4aa8bd86a4723009ed5945069e1d53bca5/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_linear_acceleration_test.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_linear_acceleration_test.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_multi_sensor_usage.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_multi_sensor_usage.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_ecg.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_ecg.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_multi_connection.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_multi_connection.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/fragment_device.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/fragment_device.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_main_view.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_main_view.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/activity_multi_subscribe.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/layout/activity_multi_subscribe.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/layout/abc_activity_chooser_view.xml"
+    }
+]

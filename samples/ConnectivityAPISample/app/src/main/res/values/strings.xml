@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movesense Connectivity Sample</string>
+    <string name="instructions_text">This app demonstrates how to connect to the Movesense sensor.\n
+        - First scan for BLE devices and then connect to it by clicking it on the list.\n
+        - Connected devices are shown on the list with ***.\n
+        - Clicking on connected device will show device info.\n
+        - Long click on connected device will disconnect.</string>
+</resources>

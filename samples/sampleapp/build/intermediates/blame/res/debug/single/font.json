@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/font/roboto.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/font/roboto.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/font/roboto_thin_italic.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/font/roboto_thin_italic.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/font/roboto_thin.xml",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/font/roboto_thin.xml"
+    }
+]

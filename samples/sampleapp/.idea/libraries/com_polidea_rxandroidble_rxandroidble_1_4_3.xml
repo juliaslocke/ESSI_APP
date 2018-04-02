@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.polidea.rxandroidble:rxandroidble-1.4.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/92d644b16bcc588aed0564070fb970309e0e27f3/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/92d644b16bcc588aed0564070fb970309e0e27f3/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
