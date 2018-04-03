@@ -19,32 +19,20 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/start_playing"
+        android:id="@+id/stop_playing"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
         android:background="#ffffff"
         android:fontFamily="@font/roboto"
         android:text="@string/start_playing"
         android:textColor="#B71C1C"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/play_label" />
-
-    <ProgressBar
-        android:id="@+id/spinner"
-        style="?android:attr/progressBarStyle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="16dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/start_playing"
-        tools:visibility="invisible" />
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/forehand_label"
@@ -58,14 +46,14 @@
         tools:layout_editor_absoluteY="176dp" />
 
     <TextView
-        android:id="@+id/empty_place"
+        android:id="@+id/fh_hit_number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/empty"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/forehand_label" />
 
@@ -77,19 +65,19 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/hit_avgspeed"
-        android:textSize="24sp"
-        app:layout_constraintStart_toEndOf="@+id/empty_place"
+        android:textSize="14sp"
+        app:layout_constraintStart_toEndOf="@+id/fh_hit_number"
         app:layout_constraintTop_toBottomOf="@+id/forehand_label" />
 
     <TextView
-        android:id="@+id/empty_place_two"
+        android:id="@+id/fh_speed_number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/empty"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toEndOf="@+id/hit_speed"
         app:layout_constraintTop_toBottomOf="@+id/forehand_label" />
 
@@ -103,17 +91,17 @@
         android:text="@string/backhand"
         android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/empty_place" />
+        app:layout_constraintTop_toBottomOf="@+id/fh_hit_number" />
 
     <TextView
-        android:id="@+id/bh_empty_place"
+        android:id="@+id/bh_hit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/empty"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/backhand_label" />
 
@@ -125,19 +113,19 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/hit_avgspeed"
-        android:textSize="24sp"
-        app:layout_constraintStart_toEndOf="@+id/bh_empty_place"
+        android:textSize="14sp"
+        app:layout_constraintStart_toEndOf="@+id/bh_hit"
         app:layout_constraintTop_toBottomOf="@+id/backhand_label" />
 
     <TextView
-        android:id="@+id/bh_empty_place_2"
+        android:id="@+id/bh_speed"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/empty"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toEndOf="@+id/bh_hit_speed"
         app:layout_constraintTop_toBottomOf="@+id/backhand_label" />
 
@@ -145,13 +133,34 @@
         android:id="@+id/view_history"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="32dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         android:fontFamily="@font/roboto"
         android:text="@string/view_history"
         android:textSize="16sp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/null_time"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="96dp" />
+
+    <TextView
+        android:id="@+id/time_elapsed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/time_elapsed"
+        app:layout_constraintBottom_toTopOf="@+id/time"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 

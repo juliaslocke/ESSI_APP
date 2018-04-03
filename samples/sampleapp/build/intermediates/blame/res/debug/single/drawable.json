@@ -40,6 +40,10 @@
         "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/led2.jpg"
     },
     {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/cartoon.png",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/cartoon.png"
+    },
+    {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/drawable/abc_ratingbar_material.xml"
     },
@@ -140,6 +144,10 @@
         "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/image_multiconnection2.jpg"
     },
     {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/rightarm.png",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/rightarm.png"
+    },
+    {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
         "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/drawable/abc_edit_text_material.xml"
     },
@@ -158,6 +166,10 @@
     {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/linear_acc2.jpg",
         "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/linear_acc2.jpg"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/rightwristsensor.png",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/rightwristsensor.png"
     },
     {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
@@ -200,6 +212,10 @@
         "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/drawable/tooltip_frame_dark.xml"
     },
     {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/leftarm.png",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/leftarm.png"
+    },
+    {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/image_tests.jpg",
         "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/image_tests.jpg"
     },
@@ -228,12 +244,12 @@
         "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
-        "source": "/Users/julialocke/.android/build-cache/1e01cb0f2f6817f48a38c7ab204a36cdef6d831a/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/inactive_background.xml",
         "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/inactive_background.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/julialocke/.android/build-cache/1e01cb0f2f6817f48a38c7ab204a36cdef6d831a/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
@@ -246,6 +262,10 @@
     {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/leftwristsensor.png",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/leftwristsensor.png"
     },
     {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
@@ -270,6 +290,10 @@
     {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/Users/julialocke/.android/build-cache/ec922275d6b849b2827bc60d73ecd076dd8ef5c6/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/bluetooth.png",
+        "source": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/src/main/res/drawable/bluetooth.png"
     },
     {
         "merged": "/Users/julialocke/Desktop/Winter2018/Independent Study/movesense-mobile-lib/android/samples/sampleapp/build/intermediates/res/merged/debug/drawable/image_saveddata.jpg",

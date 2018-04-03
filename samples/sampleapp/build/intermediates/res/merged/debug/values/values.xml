@@ -768,6 +768,7 @@
     <string name="test_temperature">Test: Temperature</string>
     <string name="text_location_permission">Bluetooth LE scanning requires location permission</string>
     <string name="thirty">30</string>
+    <string name="time">1 HR 20 MINS</string>
     <string name="title_location_permission">Location permission</string>
     <string name="train">TRAIN</string>
     <string name="train_sensors">TRAIN SENSORS</string>
@@ -780,7 +781,7 @@
     <string name="waiting_for_action">Waiting for action</string>
     <string name="waiting_for_response">Waiting for response</string>
     <string name="we_are_working_on_it">We are working on it</string>
-    <string name="welcome">WELCOME!</string>
+    <string name="welcome">WELCOME MESSAGE PLACEHOLDER!</string>
     <string name="write_external_storage_permission_text">Saving files required Write External Storage Permission</string>
     <string name="write_external_storage_permission_title">Write External Storage Permission</string>
     <string name="x">x:</string>
