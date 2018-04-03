@@ -130,7 +130,7 @@
     <string name="fix3">Check the battery of sensors</string>
     <string name="fix4">Move the sensor closer to the phone</string>
     <string name="scan_again">SCAN AGAIN</string>
-    <string name="welcome">WELCOME!</string>
+    <string name="welcome">WELCOME MESSAGE PLACEHOLDER!</string>
     <string name="train_sensors">TRAIN SENSORS</string>
     <string name="train">TRAIN</string>
     <string name="complete_5">COMPLETE 5 OF EACH TECHNIQUE. PRES START/STOP BEFORE AND AFTER EACH MOTION.</string>

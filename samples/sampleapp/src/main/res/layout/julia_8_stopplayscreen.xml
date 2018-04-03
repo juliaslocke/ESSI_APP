@@ -53,7 +53,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/seven"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/forehand_label" />
 
@@ -65,7 +65,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/hit_avgspeed"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toEndOf="@+id/fh_hit_number"
         app:layout_constraintTop_toBottomOf="@+id/forehand_label" />
 
@@ -77,7 +77,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/thirty"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toEndOf="@+id/hit_speed"
         app:layout_constraintTop_toBottomOf="@+id/forehand_label" />
 
@@ -101,7 +101,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/four"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/backhand_label" />
 
@@ -113,7 +113,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/hit_avgspeed"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toEndOf="@+id/bh_hit"
         app:layout_constraintTop_toBottomOf="@+id/backhand_label" />
 
@@ -125,7 +125,7 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/roboto"
         android:text="@string/twenty_five"
-        android:textSize="24sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toEndOf="@+id/bh_hit_speed"
         app:layout_constraintTop_toBottomOf="@+id/backhand_label" />
 
