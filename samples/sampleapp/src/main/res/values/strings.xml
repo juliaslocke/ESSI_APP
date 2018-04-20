@@ -153,6 +153,10 @@
     <string name="thirty">30</string>
     <string name="twenty_five">25</string>
     <string name="time">1 HR 20 MINS</string>
-    <string name="time_elapsed">TIME ELAPSED:</string>
+    <string name="time_elapsed">TIME ELAPSED</string>
     <string name="null_time">- - -</string>
+    <string name="service">SERVICE</string>
+    <string name="your_techniques">YOUR TECHNIQUES</string>
+    <string name="zero_time">00:00</string>
+    <string name="time_passed">45:31</string>
 </resources>

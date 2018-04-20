@@ -30,12 +30,10 @@
         android:layout_marginTop="8dp"
         android:fontFamily="@font/roboto"
         android:text="@string/forehand"
-        app:layout_constraintBottom_toTopOf="@+id/backhand_check"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/choose_techniques"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintTop_toBottomOf="@+id/choose_techniques" />
 
     <CheckBox
         android:id="@+id/backhand_check"
@@ -43,10 +41,11 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         android:fontFamily="@font/roboto"
         android:text="@string/backhand"
-        app:layout_constraintBottom_toTopOf="@+id/volley_check"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/forehand_check" />
 
@@ -54,12 +53,11 @@
         android:id="@+id/volley_check"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         android:fontFamily="@font/roboto"
-        android:text="@string/volley"
-        app:layout_constraintBottom_toTopOf="@+id/next_button"
+        android:text="@string/service"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
